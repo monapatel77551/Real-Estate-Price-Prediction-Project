@@ -9,3 +9,7 @@ During model building we will cover almost all data science concepts such as dat
 3. Matplotlib for data visualization
 4. Sklearn for model building
 5. Jupyter notebook
+
+
+
+For UI Few More thing will be required so,that can be done later !!!
